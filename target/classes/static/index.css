@@ -55,3 +55,7 @@ h1 {
     width: 80%;
     border-radius: 8px;
 }
+.card button:hover{
+    background-color: rgb(7, 98, 51);
+    color: white;
+}
